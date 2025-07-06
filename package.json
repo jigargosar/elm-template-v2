@@ -1,0 +1,10 @@
+{
+	"devDependencies": {
+		"@parcel/transformer-elm": "2.15.4",
+		"elm": "0.19.1-6",
+		"parcel": "^2.15.4"
+	},
+	"scripts": {
+		"start": "parcel index.html"
+	}
+}

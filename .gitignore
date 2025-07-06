@@ -1,0 +1,26 @@
+# Elm build artifacts
+elm-stuff/
+
+# Node modules
+node_modules/
+
+# Editor directories and files
+.DS_Store
+*.swp
+
+# OS generated files
+Thumbs.db
+
+# Logs
+*.log
+
+# Compiled output
+/dist/
+/build/
+
+# Parcel cache
+.parcel-cache/
+
+# Misc
+*.tmp
+*.bak
